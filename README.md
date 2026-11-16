@@ -1,4 +1,4 @@
-# BYD Showroom Guide
+# BYD EG
 
 A phone guide to the BYD Egypt line-up for showroom staff: prices, full brochure specs, talking points, car-to-car comparison, every feature across all cars, and rankings. Works offline once opened and can be added to the home screen.
 

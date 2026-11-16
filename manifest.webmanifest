@@ -1,6 +1,6 @@
 {
-  "name": "BYD Showroom Guide",
-  "short_name": "BYD Guide",
+  "name": "BYD EG",
+  "short_name": "BYD EG",
   "description": "Prices, specs, comparisons and features of the BYD Egypt line-up.",
   "start_url": "./",
   "scope": "./",
